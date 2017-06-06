@@ -1,3 +1,6 @@
+        //VARIABLES
+
+
 //Exemple :
 /*var bonjour = "Hello world!";
 
@@ -26,7 +29,7 @@ var mon_année_de_naissance = 1985;
 console.log(année_courante+ - +mon_année_de_naissance);
 */
 
-
+/*
 //Exercice : Bientôt vieux
 
 var mon_age = 31;
@@ -37,7 +40,7 @@ var nombre_denree = ((conso_par_jour)*(age_max-mon_age))*365;
 
 console.log('Il vous reste '+ nombre_denree+' de '+denree_alimentaire+' avant datteindre lage de ' +age_max);
 
-
+*/
 
 /*
 //Exercice : Priorités: pemdas
@@ -50,3 +53,21 @@ console.log('3*3');
 console.log('4/2');
 console.log('9+2');
 */
+
+ //Exercices : LogiqueExercices : LogiqueExercices : LogiqueExercices : LogiqueExercices : LogiqueExercices : LogiqueExercices : Logique
+
+
+//Exercice : Langues
+
+
+var langue1 = "chinois";
+var langue2 = "espagnol";
+var langue3 = "anglais";
+var msg = "ceci est votre langue";
+
+if(chinois == chinois){
+    document.write(msg);
+}
+    elif{
+        
+    }
