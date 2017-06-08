@@ -135,7 +135,7 @@ function faisQuelqueChose(){
 
 faisQuelqueChose();
 */
-//la bonne pratique de lecriture de fonction cf. ci-dessou = gain de temps !!!
+//la bonne pratique de lecriture de fonction cf. ci-dessous = gain de temps !!!
 /*
 //THEORY
 var maFonction = function(prenom = "Alex"){

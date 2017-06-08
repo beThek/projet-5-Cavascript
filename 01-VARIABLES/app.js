@@ -182,8 +182,8 @@ var monPourcentage = function(a, b){
 console.log(monPourcentage(50, 10));
 
 //KM/H
-var maDistance = function(a, b){
-    var equationDistance = (a * b);
+var maVitesse = function(Kilometre, Hours){
+    var equationDistance = (Kilometre / Hours);
     return equationDistance;
 }
-console.log(maDistance(50, 3));
+console.log(maVitesse(50, 2)+" Km/h");
